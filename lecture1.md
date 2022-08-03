@@ -17,3 +17,21 @@ To make the text *ITALIC* add *
 * list1
 * list2
 * list5
+
+## Quote
+
+> This is an example quote
+>in which before each line
+>an angle bracket is placed.
+
+>This is an example of a quote
+in which an angle bracket
+is placed just before the beginning of a new paragraph.
+>The second paragraph.
+
+> First Citation level
+>> Second level of citation
+>>> Third Citation Level
+>
+>First Citation Level
+
