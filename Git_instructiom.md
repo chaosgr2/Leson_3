@@ -8,6 +8,8 @@ git config --global user.name <span style="color:yellow">"My name"</span>
 
 git config --global user.email myemail@mail.ru
 
+Для того что бы запустить терминал, необходимо нажать на вкладку **"вид"** > **"терминал"**
+
 
 
 
